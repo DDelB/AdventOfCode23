@@ -35,16 +35,4 @@ public class Day1 {
             e.printStackTrace();
         }
     }
-    
-
-    /*public void sumFirstAndLast(){
-        if(nbrs.size() > 1){
-            int sum = nbrs.get(0) + nbrs.get(nbrs.size() -1);
-            System.out.println(sum);
-        }
-    }*/
-    
-
-    
-
 }
